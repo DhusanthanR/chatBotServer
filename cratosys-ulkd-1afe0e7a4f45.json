@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cratosys-ulkd",
+  "private_key_id": "1afe0e7a4f455fc24ec36100e3cfac2bf594bb68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+0JF2+yE2mxBk\nnsdcL0/5Zz437vqjt/Ij/AXgcY3Ls90DUTgsSfwoeYDgAUry0xg9sLfgSdX/vLZa\nZQPITmsOQYqHj+guNDs7Y2ly0XiO0qWpP3wwK6BjVWkJ3YJ/fF+UPPvWMQZewMOF\nBMKd+MsLojN8QsKC936GEOI/sb8QUq7XnBxTJduypakIivJ1dpiF6rCFGkPfox73\nZRqk1sPj/ucMLBMT/JGzwQPggISrz/W9v0OCvu30GTf7sh61d1BUJstaQk8MVnEb\n05ayHzm8vl/+doP1kox1wcPq0+vI+GQiv+cogaBKqSBzW2HvQs7T9jSonn0+dTRE\n2f4vOdB5AgMBAAECggEAXZWwimDPoNb7esYO8+z2ddVHhCpOviY0+aYdAb/fsgUE\nhCB9AufEZtt0tCieKCsVLAh0nmnILbXR39LEQKUJR4Qom6UeVC7k0BNJP/lxfebd\nPf13fK6g6qcUrbR40Orge7VPNHV18Nns6tvzUYQYnZuPUcXyXUZiRQGZ3XBhS3DP\n6/l/MVpxmyIVZV4Yj5vkSb/sm8Ybvk0eoyZng8xXTc7ZBRKEAAnLkjPxSNxuIuAD\nCheF0SxCSiVt7GEAl7Tdsw9Hji5SuHSXsb8bUedw8nKHesqhC4NT0wUSypgxy4QU\nnp+vD1DlDCEK3KPqpdZWw8jUlbzvSek3mIEYEOjwUwKBgQD16f66R0Yn/GhDJBZp\n01VPiNblvmC20617GXGxtQmBwGjsx4b5DzDzJpMlX9Nvj5tDWnz/9HnOCmp8Fk5a\nnQK0ytBxJt0QIJ7thXey1lqgMGsV0JmlyfgoE9biJeTUuDcevu1gFzblzxjbhSsk\n50dV3mlM3FAi55NFrTI6dlMq3wKBgQDGpA0Pcokboeq0vd37EOvIwCGKPffTVJjf\nqqKPhPBWWxTdrhpf9HIiCbhwr2wWgWn565x0efCgEBsPHGvWmXYbC5Xhajpw8Zut\nQUygIck8gN1U5ZiAaSRe+MhSQk3D8B0CaySyPD2zFmCfG34Ryy9mgyi3dvpWu5Du\nwgVqOYtHpwKBgQCPwQ0midnKMDQm46aykFbzmpO9U/AnkFB+gJ5E+wamsfrkR7Nw\nTuAXk/o6w+zO740c733ZBmpZ9x7OkR+WuuhFFbaKHuTls5wUT4xsn//0WrmO1BWt\npAaMLyTTqME/VLzsHUKYhJmT99+ZHBzfgs/hs5Ws17GE5gjil1+ga2Es0wKBgDmY\nM1k5QlvKtLy3GHfFTjgkzRTCJusVakXfucaXKwA+5GvqISeVPspzuxChLFvSJiIa\nmICFIqmmQdI90V6lnEL3Nvvmyw8YXqT7e/YqFaj/TC1jbLY+xhbrV1nSc63OHvsm\nibtMEC+u21EGraUHHrVAbjvTuX4QYFN52gwUpzedAoGAWIDFbsfW/97Ul2XL6n1M\n5ZTBOn2KBXgqvUHi2WgjsCOoV9bH/7M3XwHqo9YI/ZXhGQrW1Tt4y2ilEyUQ0Q7f\nnBLb0jqRlGDUe89nq+FIBMZGiNdul1gesmjp+yf6H8UzoLZS61bNK767XGwzHi7F\njFDqaxF8K/tlaDlH7+bAsz4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cratosys-ulkd@appspot.gserviceaccount.com",
+  "client_id": "117299406609679626804",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cratosys-ulkd%40appspot.gserviceaccount.com"
+}
